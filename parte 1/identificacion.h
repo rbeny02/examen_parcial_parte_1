@@ -2,15 +2,16 @@
 // Created by rania on 05/11/2024.
 //
 
-#ifndef IDENTIFICACION_H
 #define IDENTIFICACION_H
 
 
+#ifndef ANALISIS_NUMERO_H
+#define ANALISIS_NUMERO_H
 
-class identificacion {
-
-};
+void analizarNumero(int numero);//Indicamos la función que hemos aplicado en el .cpp
 
 
 
-#endif //IDENTIFICACION_H
+
+
+#endif
