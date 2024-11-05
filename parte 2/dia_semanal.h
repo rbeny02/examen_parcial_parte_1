@@ -2,15 +2,15 @@
 // Created by rania on 05/11/2024.
 //
 
-#ifndef DIA_SEMANAL_H
+
 #define DIA_SEMANAL_H
 
 
+#ifndef DIA_SEMANA_H
+#define DIA_SEMANA_H
 
-class dia_semanal {
+void imprimirDiaSemana(int dia); // Al igual que en el apartado anterior introducimos la funcion que usamos.
 
-};
+#endif // DIA_SEMANA_H
 
 
-
-#endif //DIA_SEMANAL_H
