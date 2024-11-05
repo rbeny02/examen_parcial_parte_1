@@ -1,8 +1,7 @@
 //
 // Created by rania on 05/11/2024.
 //
-
-#include "dia_semanal.h"
+#include "parte 2/dia_semanal.h"
 #include <iostream>
 // En este apartado aplicaremos un switch ya que tenemos múltiples días. Fuente Copilot
 void imprimirDiaSemana(int dia) {
