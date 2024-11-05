@@ -7,7 +7,7 @@
 #include "parte 1/identificacion.h"
 #include "parte 2/dia_semanal.h"
 #include "parte 3/calculo.h"
-
+#include "parte 4/promocion.h"
 
 int main()
 {
@@ -37,6 +37,16 @@ int main()
         double promedio = calcularPromedio(calificaciones, NUM_EJERCICIOS); std::cout << "El promedio de las calificaciones es: " << promedio <<std::endl;
 
 
+
+        // Parte 4 del ejercicio, fuente chat gpt y copilot
+        // La función double que  hemos aplicado es más eficiente a la hora de usar número decimales y al tratarse de precios nos encontraremos con estos números
+        double precio1, precio2,precio3;
+        std::cout << "Ingresa el precio del primer artículo: "; std::cin >> precio1;
+        std::cout << "Ingresa el precio del segundo artículo: "; std::cin >> precio2;
+        std::cout << "Ingresa el precio del tercer artículo: "; std::cin >> precio3;
+
+        double total = calcularTotalPromocion(precio1, precio2, precio3);
+        std::cout << "El total a pagar es: " << total <<std::endl;
         return 0;
     }
 }
