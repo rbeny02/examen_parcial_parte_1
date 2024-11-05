@@ -14,3 +14,15 @@ Un estudiante ha completado un curso de programación avanzada en C++. Durante e
 Ejercicio 4: Promoción de "3 por 2" en Tienda
 En una tienda se está ofreciendo una promoción en la cual el cliente puede llevarse tres artículos y pagar solo por los dos artículos más caros. Escribe un programa en C++ que solicite al usuario ingresar los precios de tres artículos y, como resultado, muestre el total que el cliente debe pagar bajo esta promoción.
 
+Ejercicio 1: 
+ Pra la solución del ejercicio hemos aplicado la condicional if y la función analizarNumero.
+
+ Ejercicio 2: #Fuente Copilot
+ Para el dos destaca el uso del switc.
+
+ Ejercicio 3 : #Fuente Copilot
+ En cuanto al tres hemos usado arrays y bucles
+
+ Ejercicio 4: #Fuente Chat gpt
+ Para este destaca el uso del double al tratarse de números decimales.
+ 
